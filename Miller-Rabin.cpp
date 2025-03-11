@@ -66,9 +66,6 @@ bool is_prime(long long n, int iterations = 30) {
 }
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    
     long long num;
     cout << "Введите число для проверки на простоту: ";
     cin >> num;

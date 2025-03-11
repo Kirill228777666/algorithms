@@ -58,9 +58,6 @@ int minimax(vector<int>& gameTree, int depth, int nodeIndex, bool isMaximizing, 
 }
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-  
     int d; // Глубина игрового дерева
     cout << "Введите глубину дерева: ";
     cin >> d;

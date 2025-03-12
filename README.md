@@ -22,11 +22,14 @@ This repository contains implementations of some fundamental and fascinating alg
 - Uses modular exponentiation and randomized base selection.
 - Number of iterations affects the accuracy of the test.
 
+### 5. Dynamic programming
+- A common and effective algorithm for solving problems by breaking them down into subtasks
+- The initial data (DP base) and the recursive ratio are set, and the calculation is performed in a loop.
 
 ## Authors
 This project was developed by:
-- **Kozhin Kirill**
-- **Faizov Matvey**
-- **Mamedzade Ayhan**
+- **Kozhin Kirill** (@loveitandph)
+- **Faizov Matvey** (@shoutclick)
+- **Mamedzade Ayhan** (@madmae19)
 
 All rights reserved.
